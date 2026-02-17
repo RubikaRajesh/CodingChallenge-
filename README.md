@@ -1,2 +1,2 @@
 # CodingChallenge-
-This repository is Rubika's journey to consistant coding
+This repository is Rubika's consistant journey after a break 
