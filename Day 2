@@ -4,6 +4,7 @@ ARRAYS easy+medium
 88. Merge Sorted Array(easy)
 53. Maximum Subarray(medium)
 217. Contains Duplicate(easy)
+1295. Find Numbers with Even Number of Digits(easy)
 
 
 --comments--
@@ -11,3 +12,4 @@ ARRAYS easy+medium
 ->did the easy problems(merge sorted arrays and contains duplicates) confidently and easily
 learnt about hashsets and hashmaps
 ->Maximum subarray program a.k.a Kadanes algorithm felt dificult to be solved by myself - i completed it without looking into the solutions by just getting headstart from discussions section
+->1295 i did after seeing Kunal Kushwaha's video in youtube. was a simple and interesting program.
