@@ -1,0 +1,14 @@
+---Solved Problems---
+
+ARRAYS (Easy+Medium)
+
+238. Product of Array Except Self(medium)
+189. Rotate Array(medium)
+169. Majority Element(easy)
+
+--comments--
+
+->majority elements i did it through some long method then after thinking sometime i figured that its sooo simpleeee
+->Rotate array- i kinda remember the method of approach-was able to solve it- had forgot to do k=k%n;
+->product od array except self-- was completely new and had a little hard time figuring it out by myself 
+  read method from discussion sections and was able to solve without looking into the solutions
