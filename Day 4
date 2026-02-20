@@ -1,11 +1,26 @@
 ---problems solved---
-Binary search and Strings (easy , medium , hard)
+Binary search and Strings (easy , medium)
 
 242. Valid Anagram
 125. Valid Palindrome
 28. Find the Index of the First Occurrence in a String
 
+Ceil in a Sorted Array-gfg(easy)
+35. Search Insert Position(easy)
+744. Find Smallest Letter Greater Than Target(easy)
+34. Find First and Last Position of Element in Sorted Array(medium)
+
 
 --comments--
-242,125,28 ---> I actually struggled as I directly jumped into solving before re-learning the string concepts (would'nt recommed anyone)
+
+242,125,28(easy) ---> I actually struggled as I directly jumped into solving before re-learning the string concepts (would'nt recommed anyone)
                 these where easy problems....but was tough for me today because i struggled to remember most inbuilt parts
+
+Ceil in a Sorted Array --> was actually head breaking- with every testcase failing I learnt new things.
+                           KUNAL KUSHWAHA'S solution didn't actually work for testcases with duplicates.
+
+35--> was able to solve this with binary search there was no case of duplicate elements here,
+      soo normal finding floor in sorted array method worked
+744-->i was able to solve it by myself yay! i'm improvinggg
+34-->was really easy to solve in O(n) complexity by linear search 
+    but learnt and did it using binary search
